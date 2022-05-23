@@ -1,0 +1,41 @@
+name	buy_price	sell_price	season	growth	regrowth
+Pink Turnip Seed	80	200	Spring	3	0
+Cabbage Seeds	100	380	Spring	6	0
+Strawberry Seed	260	720	Spring	9	2
+Onion Seeds	110	780	Spring	12	0
+Pink Melon Seed	620	4200	Spring	7	0
+Moondrop Seed	70	600	Spring	7	0
+Toyherb Seed	60	180	Spring	2	0
+Cherry Grass Seed	120	860	Spring	6	0
+Lamp Grass Seed	480	4580	Spring	18	0
+Emery Flower Seed	1000	12800	Spring	27	0
+Blue Crystal Seed	700	7000	Spring	16	0
+Gold Cabbage Seed	230	3800	Spring	14	0
+Cucumber Seed	80	180	Summer	6	2
+Tomato Seed	140	300	Summer	11	1
+Corn Seed	130	440	Summer	13	2
+Pumpkin Seed	220	1240	Summer	10	0
+Eggplant Seed	160	480	Summer	9	2
+Pink Cat Seeds	50	270	Summer	4	0
+Fire Flower Seed	260	1200	Summer	6	0
+Ironleaf Seed	420	5500	Summer	25	0
+Clover Seed	390	2100	Summer	10	0
+G. Crystal Seed	700	7000	Summer	16	0
+Potato Seed	90	280	Autumn	3	0
+Carrot Seed	100	590	Autumn	8	0
+Yam Seed	80	140	Autumn	6	1
+Spinach Seed	60	140	Autumn	2	0
+Green Pepper Seed	150	480	Autumn	9	1
+Charm Blue Seed	40	320	Autumn	6	0
+Autumn Grass Seed	440	5400	Autumn	15	0
+Pom-Pom G. Seed	510	6600	Autumn	22	0	
+Red Crystal Seed	700	7000	Autumn	16	0
+Gold Potato Seed	250	1900	Autumn	6	0
+Turnip Seed	130	420	Winter	3	0
+Leek Seed	120	500	Winter	6	0
+Daikon Seed	160	770	Winter	7	0
+W. Cabbage Seed	200	1350	Winter	12	0
+Hot-Hot F. Seed	470	4800	Winter	18	0
+Noel Grass Seed	330	4221	Winter	24	0
+W. Crystal Seed	700	7000	Winter	16	0
+Gold Turnip Seed	210	1400	Winter	5	0
